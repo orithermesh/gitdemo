@@ -1,7 +1,10 @@
 #put in locally ####
 sys.info()
 sessionInfo()
+
 mean(rnorm(10000))
+mean(rlnorm(100))
+
 #end ####
 
 #centrally#####
